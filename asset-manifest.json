@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tv-series-app/static/css/main.11dd20b4.chunk.css",
+    "main.js": "/tv-series-app/static/js/main.9efb3150.chunk.js",
+    "main.js.map": "/tv-series-app/static/js/main.9efb3150.chunk.js.map",
+    "runtime~main.js": "/tv-series-app/static/js/runtime~main.1839de02.js",
+    "runtime~main.js.map": "/tv-series-app/static/js/runtime~main.1839de02.js.map",
+    "static/js/2.993a46f6.chunk.js": "/tv-series-app/static/js/2.993a46f6.chunk.js",
+    "static/js/2.993a46f6.chunk.js.map": "/tv-series-app/static/js/2.993a46f6.chunk.js.map",
+    "index.html": "/tv-series-app/index.html",
+    "precache-manifest.9bf7cee71f875de2c3fb7215c805aa13.js": "/tv-series-app/precache-manifest.9bf7cee71f875de2c3fb7215c805aa13.js",
+    "service-worker.js": "/tv-series-app/service-worker.js",
+    "static/css/main.11dd20b4.chunk.css.map": "/tv-series-app/static/css/main.11dd20b4.chunk.css.map"
+  }
+}
